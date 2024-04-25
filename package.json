@@ -1,7 +1,8 @@
 {
   "name": "aladdin-dashboard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "dashboard for aladdin eco system",
+  "repository": "https://github.com/huwangtao123/aladdin-dashboard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
