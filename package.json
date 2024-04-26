@@ -1,6 +1,6 @@
 {
   "name": "aladdin-dashboard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "dashboard for aladdin eco system",
   "repository": "https://github.com/huwangtao123/aladdin-dashboard",
   "main": "index.js",
